@@ -1,0 +1,17 @@
+{
+  "vaultPath": "G:\\ObsidianVault",
+  "statsOutputPath": "LJ OS\\stats",
+  "repoRoots": [
+    "G:\\"
+  ],
+  "repoIgnoreNames": [
+    "node_modules",
+    ".git",
+    "vendor",
+    "$RECYCLE.BIN",
+    "System Volume Information"
+  ],
+  "authorName": "",
+  "includeReposWithNoActivity": false,
+  "includeEmptyRepos": false
+}

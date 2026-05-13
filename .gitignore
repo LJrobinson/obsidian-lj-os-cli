@@ -1,0 +1,12 @@
+# Local output
+out/
+*.local.json
+
+# PowerShell
+*.ps1xml
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

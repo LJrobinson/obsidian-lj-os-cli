@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T21:30:00.0000000-07:00",
+  "source": "obsidian-lj-os-cli",
+  "machine": {
+    "name": "WORKSTATION",
+    "user": "lj"
+  },
+  "summary": {
+    "reposScanned": 2,
+    "reposIncluded": 2,
+    "reposTouchedToday": 2,
+    "commitsToday": 3,
+    "dirtyRepos": 2,
+    "unpushedCommits": 1,
+    "behindCommits": 0
+  },
+  "repos": [
+    {
+      "name": "obsidian-lj-os-cli",
+      "path": "G:\\obsidian-lj-os-cli",
+      "branch": "main",
+      "hasCommits": true,
+      "touchedToday": true,
+      "commitsToday": 3,
+      "dirty": true,
+      "unpushedCommits": 1,
+      "behindUpstream": 0,
+      "latestCommit": {
+        "hash": "abc1234abc1234abc1234abc1234abc1234abc1234",
+        "message": "Implement daily dyno sheet CLI",
+        "time": "2026-05-12T21:25:00-07:00"
+      },
+      "notes": []
+    },
+    {
+      "name": "moby-cli",
+      "path": "G:\\rust-playground\\moby-cli",
+      "branch": "main",
+      "hasCommits": false,
+      "touchedToday": true,
+      "commitsToday": 0,
+      "dirty": true,
+      "unpushedCommits": 0,
+      "behindUpstream": 0,
+      "latestCommit": null,
+      "notes": [
+        "Git repository has no commits yet."
+      ]
+    }
+  ],
+  "notes": []
+}
